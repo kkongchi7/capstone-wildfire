@@ -203,7 +203,7 @@ N_CHANNELS = 3 # channel 지정
 EPOCHS = 50 # 훈련 epoch 지정
 BATCH_SIZE = 64 # batch size 지정
 IMAGE_SIZE = (256, 256) # 이미지 크기 지정
-MODEL_NAME = 'DeepLabV3' # 모델 이름
+MODEL_NAME = 'YOLO' # 모델 이름
 RANDOM_STATE = 42 # seed 고정
 INITIAL_EPOCH = 0 # 초기 epoch
 
