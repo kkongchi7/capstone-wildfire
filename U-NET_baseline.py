@@ -333,7 +333,7 @@ test_meta = pd.read_csv('/data2/local_datasets/fire/test_meta.csv')
 
 
 # 저장 이름
-save_name = 'base_line'
+save_name = 'unet_baseline'
 
 N_FILTERS = 16 # 필터수 지정
 N_CHANNELS = 3 # channel 지정
